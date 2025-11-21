@@ -8,5 +8,6 @@
 >git commit -m "commit message" [command for adding staged files to local repository]
 >git log [command for listing commit history]
 >git remote add name remote_path
+>git push name master
 >git remote -v [list all remotes]
 >git branch [list all branches]
