@@ -7,7 +7,10 @@
 >git add -A [command for adding all untracked files to staging area]
 >git commit -m "commit message" [command for adding staged files to local repository]
 >git log [command for listing commit history]
->git remote add name remote_path
->git push name master
+
+>git remote add name remote_path [command for adding remote repository to local repository]
+>git push name master* [command for adding changes from local repository to remote repository]
+*branch
+
 >git remote -v [list all remotes]
 >git branch [list all branches]
